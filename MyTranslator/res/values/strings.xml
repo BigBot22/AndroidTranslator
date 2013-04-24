@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">MyNetworking</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_my_networking">NetWorking</string>
+    <string name="title_activity_second">Translation !!!</string>
+    <string name="button_translate">Translate</string>
+    <string name="button_back">Back</string>
+    <string name="edit_text">Enter word to translate.</string>
+    <string name="button">Button</string>
+
+</resources>
